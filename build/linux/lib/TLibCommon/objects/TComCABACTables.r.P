@@ -1,0 +1,13 @@
+objects/TComCABACTables.r.o: \
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.cpp \
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.cpp :
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :

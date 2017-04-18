@@ -1,0 +1,23 @@
+objects/TAppDecCfg.d.o: \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/l301/HM-16.0/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :

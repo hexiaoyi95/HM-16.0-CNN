@@ -1,0 +1,15 @@
+objects/SyntaxElementWriter.d.o: \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.cpp :
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/SyntaxElementWriter.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/l301/HM-16.0/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComRom.h :

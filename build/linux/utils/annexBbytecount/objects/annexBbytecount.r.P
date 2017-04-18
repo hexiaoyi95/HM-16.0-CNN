@@ -1,0 +1,7 @@
+objects/annexBbytecount.r.o: \
+ /home/l301/HM-16.0/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp \
+ /home/l301/HM-16.0/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h \
+ /home/l301/HM-16.0/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h
+ /home/l301/HM-16.0/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp :
+ /home/l301/HM-16.0/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h :
+ /home/l301/HM-16.0/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h :
